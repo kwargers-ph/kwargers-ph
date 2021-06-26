@@ -1,4 +1,4 @@
-Hey! We're Kwargers, an amateur puzzlehunting duo, consisting of @Iscaraca (Aziz) and @shinymegaaltaria (Shiny).
+Hey! We're Kwargers, an amateur puzzlehunting duo, consisting of Isaac (Aziz) and Ryon (Shiny).
 
 This is a space where we log our thought process when solving puzzles in puzzlehunts and other miscellaneous events!
 
@@ -9,10 +9,10 @@ Unfortunately, this idea came to us after Huntinality 2021, so a lot of our thou
 Log of past hunts:
 | Number | Hunt Name | Team Name |  Puzzles Solved | Completed? |
 | :-: | :-: | :-: | :-: | :-: |
-| 1      | Puzzle Potluck 3 | readourteamname | 27 | [x] |
-| 2      | BN Hunt | kwargers | idk | [ ] |
-| 3      | Smogon Puzzle Hunt 3 | kwargers | 17 | [ ] |
-| 4      | Colby’s Curious Cookoff | Aziz | 35 | [x] |
-| 5      | DP Puzzle Hunt | Kwargers | 25 | [x] |
-| 6      | MIT Mystery Hunt 2021 | French Fries | ? | [ ] |
-| 7      | Huntinality | 	🇰🇼🇦🇷🇬🇪🇷🇸 (kwargers) | 14 | [x] |
+| 1      | Puzzle Potluck 3 | readourteamname | 27 | [checkbox:checked] |
+| 2      | BN Hunt | kwargers | idk | [checkbox:unchecked] |
+| 3      | Smogon Puzzle Hunt 3 | kwargers | 17 | [checkbox:unchecked] |
+| 4      | Colby’s Curious Cookoff | Aziz | 35 | [checkbox:checked] |
+| 5      | DP Puzzle Hunt | Kwargers | 25 | [checkbox:checked] |
+| 6      | MIT Mystery Hunt 2021 | French Fries | ? | [checkbox:unchecked] |
+| 7      | Huntinality | 	🇰🇼🇦🇷🇬🇪🇷🇸 (kwargers) | 14 | [checkbox:checked] |
