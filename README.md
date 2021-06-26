@@ -1,4 +1,4 @@
-Hey! We're Kwargers, an amateur puzzlehunting duo, consisting of Isaac (Aziz) and Ryon (Shiny).
+Hey! We're Kwargers, an amateur puzzlehunting duo consisting of Isaac (Aziz) and Ryon (Shiny).
 
 This is a space where we log our thought process when solving puzzles in puzzlehunts and other miscellaneous events!
 
