@@ -9,10 +9,10 @@ Unfortunately, this idea came to us after Huntinality 2021, so a lot of our thou
 Log of past hunts:
 | Number | Hunt Name | Team Name |  Puzzles Solved | Completed? |
 | :-: | :-: | :-: | :-: | :-: |
-| 1      | Puzzle Potluck 3 | readourteamname | 27 | [checkbox:checked] |
-| 2      | BN Hunt | kwargers | idk | [checkbox:unchecked] |
-| 3      | Smogon Puzzle Hunt 3 | kwargers | 17 | [checkbox:unchecked] |
-| 4      | Colby’s Curious Cookoff | Aziz | 35 | [checkbox:checked] |
-| 5      | DP Puzzle Hunt | Kwargers | 25 | [checkbox:checked] |
-| 6      | MIT Mystery Hunt 2021 | French Fries | ? | [checkbox:unchecked] |
-| 7      | Huntinality | 	🇰🇼🇦🇷🇬🇪🇷🇸 (kwargers) | 14 | [checkbox:checked] |
+| 1      | Puzzle Potluck 3 | readourteamname | 27 | <ul><li>[x]</li></ul> |
+| 2      | BN Hunt | kwargers | idk | <ul><li>[ ]</li></ul> |
+| 3      | Smogon Puzzle Hunt 3 | kwargers | 17 | <ul><li>[ ]</li></ul> |
+| 4      | Colby’s Curious Cookoff | Aziz | 35 | <ul><li>[x]</li></ul> |
+| 5      | DP Puzzle Hunt | Kwargers | 25 | <ul><li>[x]</li></ul> |
+| 6      | MIT Mystery Hunt 2021 | French Fries | ? | <ul><li>[ ]</li></ul> |
+| 7      | Huntinality | 	🇰🇼🇦🇷🇬🇪🇷🇸 (kwargers) | 14 | <ul><li>[x]</li></ul> |
