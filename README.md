@@ -15,4 +15,4 @@ Log of past hunts:
 | 4      | Colby’s Curious Cookoff | Aziz | 35 | &#9745; |
 | 5      | DP Puzzle Hunt | Kwargers | 25 | &#9745; |
 | 6      | MIT Mystery Hunt 2021 | French Fries | idk | &#9744; |
-| 7      | Huntinality | 	🇰🇼🇦🇷🇬🇪🇷🇸 (kwargers) | 14 | &#9745; |
+| 7      | Huntinality 2021 | 	🇰🇼🇦🇷🇬🇪🇷🇸 (kwargers) | 14 | &#9745; |
