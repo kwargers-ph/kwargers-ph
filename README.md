@@ -18,8 +18,8 @@ Log of past hunts:
 | 7      | Huntinality 2021 | 	🇰🇼🇦🇷🇬🇪🇷🇸 (kwargers) | 14 | &#9745; |
 
 Upcoming hunts:
-| Number | Hunt Name | Team Name |  Puzzles Solved | Completed? |
-| :-: | :-: | :-: | :-: | :-: |
+| Number | Hunt Name | Team Name |
+| :-: | :-: | :-: | 
 | 1      | Galactic Puzzle Hunt: 20/20 Vision | 🇰🇼🇦🇷🇬🇪🇷🇸 (kwargers) |
 | 2      | Puzzle Potluck 4 | kwargers |
 | 3      | Smogon Puzzle Hunt 4 | Alliterative Aquatic Animals Assembly |
